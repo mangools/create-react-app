@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "build": "node packages/react-scripts/scripts/build.js",
-    "create-react-app": "tasks/cra.sh",
+    "mangools-cra": "tasks/cra.sh",
     "e2e": "tasks/e2e-simple.sh",
     "publish": "tasks/release.sh",
     "start": "node packages/react-scripts/scripts/start.js",
